@@ -8,11 +8,8 @@
 -->
 
 <h1>Shaikh Muhammad </h1>
-I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Sukkur IBA University</b>, Pakistan. I build full-stack applications with a focus on clean architecture, scalable backends, and solid APIs.
+I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Sukkur IBA University</b>, Pakistan. 
 
-- **Bachelor's in Computer Science** — Sukkur IBA University *(in progress)*
-- Seeking **internships / entry-level SWE roles** in backend, or full-stack development
-- Currently deepening expertise in **Spring Boot microservices** and **containerized deployments**
 
 ---
 
@@ -44,15 +41,6 @@ I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Su
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrshaikhmuhammad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mrshaikhmuhammad)
