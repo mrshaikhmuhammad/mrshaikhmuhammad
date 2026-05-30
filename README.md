@@ -44,8 +44,8 @@
     <a href="https://www.linkedin.com/in/mrshaikhmuhammad" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="malito:shaikhmuhammad.bscsf24@iba-suk.edu.pk" target="_blank">
-        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:shaikhmuhammad.bscsf24@iba-suk.edu.pk">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
