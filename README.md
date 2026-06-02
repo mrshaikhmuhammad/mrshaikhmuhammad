@@ -10,36 +10,47 @@
 <h1>Shaikh Muhammad </h1>
 I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Sukkur IBA University</b>, Pakistan. 
 
+## Github Statistics
+<table border="0.5" align="center" >
+  <tr>
+    <th>
+      <img src="https://github-stats-extended.vercel.app/api?username=mrshaikhmuhammad" alt="GitHub Stats">
+    </th>
+    <th>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Top Languages">
+    </th>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
- 
-- <b>Backend:  </b>
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=api&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-- <b>Frontend:  </b>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<table border="0.5" align="center" >
+  <tr>
+    <th>
+      Frontend
+    </th>
+    <th>
+      Backend & Database
+    </th>
+    <th>
+      Development Tools
+    </th>
+  </tr>
 
-- <b>Database:  </b>
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-- <b>Tools:  </b>
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
+  <tr>
+    <th>
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Stack" />
+    </th>
+    <th>
+      <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,flask,mongodb,postgres,mysql" alt="Backend Stack" />
+    </th>
+    <th>
+      <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" alt="Tools & DevOps" />
+    </th>
+  </tr>  
+</table>
 
 
 ## Let's Connect
