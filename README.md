@@ -1,23 +1,31 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  GitHub Profile README — Shaikh Muhammad                         ║
-  ║  Software Development Engineer | Full Stack Developer            ║
-  ║  Java Spring Boot · Python Flask · REST APIs · Docker            ║
+  ║  Backend Developer | Full Stack Developer                        ║
+  ║  Java · Spring Boot  REST APIs · Docker                          ║
   ║  Computer Science @ Sukkur IBA University · Pakistan             ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<h1>Shaikh Muhammad </h1>
-I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Sukkur IBA University</b>, Pakistan. 
+# Shaikh Muhammad
 
-## Github Statistics
-<table border="0.5" align="center" >
+  A **Backend Developer** and Computer Science student at Sukkur IBA University, Pakistan.
+  I focus on building production-ready solutions using **Java** and **Spring Boot**,
+  and I'm currently diving deeper into **MVC architecture and Servlets**.<br>
+  
+  Open to **internships**, **collaborations**, and **open-source** contributions.
+
+
+---
+
+## GitHub Statistics
+<table border="0.25" >
   <tr>
     <th>
-      <img src="https://github-stats-extended.vercel.app/api?username=mrshaikhmuhammad" alt="GitHub Stats">
+      <img src="https://github-stats-extended.vercel.app/api?username=mrshaikhmuhammad" alt="GitHub stats for Shaikh Muhammad — commits, PRs, issues">
     </th>
     <th>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Top Languages">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Most used languages — Java, Python, C++">
     </th>
   </tr>
 </table>
@@ -26,7 +34,7 @@ I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Su
 
 ## Tech Stack
 
-<table border="0.5" align="center" >
+<table border="0.5" >
   <tr>
     <th>
       Frontend
@@ -40,20 +48,23 @@ I'm a <b>Software Development Engineer</b> and Computer Science student at <b>Su
   </tr>
 
   <tr>
-    <th>
-      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Stack" />
-    </th>
-    <th>
-      <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,flask,mongodb,postgres,mysql" alt="Backend Stack" />
-    </th>
-    <th>
-      <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" alt="Tools & DevOps" />
-    </th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend skills: HTML · CSS · JavaScript" />
+    </td>
+    <td>
+      <img 
+        src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mongodb,postgres,mysql" 
+        alt="Backend skills: Java · Spring Boot · Maven · Gradle · REST APIs · MongoDB · PostgreSQL · MySQL" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" alt="DevOps and tools: Docker · Git · GitHub · Linux · Postman" />
+    </td>
   </tr>  
 </table>
 
+---
 
 ## Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mrshaikhmuhammad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrshaikhmuhammad)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhmuhammad.bscsf24@iba-suk.edu.pk)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mrshaikhmuhammad)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/mrshaikhmuhammad)
+[![GitHub](https://skillicons.dev/icons?i=gmail)](mailto:shaikhmuhammad.bscsf24@iba-suk.edu.pk)
