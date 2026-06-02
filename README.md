@@ -11,7 +11,7 @@
 
   A **Backend Developer** and Computer Science student at Sukkur IBA University, Pakistan.
   I focus on building production-ready solutions using **Java** and **Spring Boot**,
-  and I'm currently diving deeper into **MVC architecture and Servlets**.<br>
+  and currently exploring **distributed systems** and **cloud-native development**<br>
   
   Open to **internships**, **collaborations**, and **open-source** contributions.
 
@@ -66,5 +66,5 @@
 
 ## Let's Connect
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mrshaikhmuhammad)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/mrshaikhmuhammad)
-[![GitHub](https://skillicons.dev/icons?i=gmail)](mailto:shaikhmuhammad.bscsf24@iba-suk.edu.pk)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mrshaikhmuhammad)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:shaikhmuhammad.bscsf24@iba-suk.edu.pk)
