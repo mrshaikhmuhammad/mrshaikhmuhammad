@@ -34,34 +34,36 @@
 
 ## Tech Stack
 
-<table border="0.5" >
+<table border="0.5">
   <tr>
-    <th>
-      Frontend
-    </th>
-    <th>
-      Backend & Database
-    </th>
-    <th>
-      Development Tools
-    </th>
+    <th>Frontend</th>
+    <th>Backend & Database</th>
+    <th>Development Tools</th>
   </tr>
-
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend skills: HTML · CSS · JavaScript" />
+      <img src="https://skillicons.dev/icons?i=html"     title="HTML"        alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css"      title="CSS"         alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=js"       title="JavaScript"  alt="JavaScript" />
     </td>
     <td>
-      <img 
-        src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mongodb,postgres,mysql" 
-        alt="Backend skills: Java · Spring Boot · Maven · Gradle · REST APIs · MongoDB · PostgreSQL · MySQL" />
+      <img src="https://skillicons.dev/icons?i=java"     title="Java"        alt="Java" />
+      <img src="https://skillicons.dev/icons?i=spring"   title="Spring Boot" alt="Spring Boot" />
+      <img src="https://skillicons.dev/icons?i=maven"    title="Maven"       alt="Maven" />
+      <img src="https://skillicons.dev/icons?i=gradle"   title="Gradle"      alt="Gradle" />
+      <img src="https://skillicons.dev/icons?i=mongodb"  title="MongoDB"     alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"  alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql"    title="MySQL"       alt="MySQL" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" alt="DevOps and tools: Docker · Git · GitHub · Linux · Postman" />
+      <img src="https://skillicons.dev/icons?i=docker"   title="Docker"      alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=postman"  title="Postman"     alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=linux"    title="Linux"       alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=git"      title="Git"         alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github"   title="GitHub"      alt="GitHub" />
     </td>
-  </tr>  
+  </tr>
 </table>
-
 ---
 
 ## Let's Connect
