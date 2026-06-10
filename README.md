@@ -50,7 +50,6 @@
       <img src="https://skillicons.dev/icons?i=java"     title="Java"        alt="Java" />
       <img src="https://skillicons.dev/icons?i=spring"   title="Spring Boot" alt="Spring Boot" />
       <img src="https://skillicons.dev/icons?i=maven"    title="Maven"       alt="Maven" />
-      <img src="https://skillicons.dev/icons?i=gradle"   title="Gradle"      alt="Gradle" />
       <img src="https://skillicons.dev/icons?i=mongodb"  title="MongoDB"     alt="MongoDB" />
       <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"  alt="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql"    title="MySQL"       alt="MySQL" />
