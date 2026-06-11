@@ -22,10 +22,10 @@
 <table border="0.25" >
   <tr>
     <th>
-      <img src="https://github-stats-extended.vercel.app/api?username=mrshaikhmuhammad" alt="GitHub stats for Shaikh Muhammad — commits, PRs, issues">
+      <img src="https://github-readme-stats.vercel.app/api?username=mrshaikhmuhammad">
     </th>
     <th>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Most used languages — Java, Python, C++">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Most used languages — Java, Python, C++">
     </th>
   </tr>
 </table>
