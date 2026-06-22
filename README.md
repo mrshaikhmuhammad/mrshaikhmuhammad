@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  GitHub Profile README — Shaikh Muhammad                         ║
-  ║  Backend Developer | Full Stack Developer                        ║
+  ║  Full Stack Developer | Full Stack Developer                        ║
   ║  Java · Spring Boot  REST APIs · Docker                          ║
   ║  Computer Science @ Sukkur IBA University · Pakistan             ║
   ╚══════════════════════════════════════════════════════════════════╝
@@ -9,7 +9,7 @@
 
 # Shaikh Muhammad
 
-  A **Backend Developer** and Computer Science student at Sukkur IBA University, Pakistan.
+  A **Full Stack Developer** and Computer Science student at Sukkur IBA University, Pakistan.
   I focus on building production-ready solutions using **Java** and **Spring Boot**,
   and currently exploring **distributed systems** and **cloud-native development**<br>
   
