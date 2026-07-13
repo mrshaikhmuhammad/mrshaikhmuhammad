@@ -25,7 +25,7 @@
       <img src="https://github-stats-extended.vercel.app/api?username=mrshaikhmuhammad" alt="GitHub Stats — Commits, Pull Request, Issues">
     </th>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Most used languages — Java, Python, C++">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrshaikhmuhammad&langs_count=4" alt="Most used languages — Java, Python, C++">
     </th>
   </tr>
 </table>
@@ -45,11 +45,11 @@
       <img src="https://skillicons.dev/icons?i=html"     title="HTML"        alt="HTML" />
       <img src="https://skillicons.dev/icons?i=css"      title="CSS"         alt="CSS" />
       <img src="https://skillicons.dev/icons?i=js"       title="JavaScript"  alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=react"       title="React.js"  alt="React.js" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=java"     title="Java"        alt="Java" />
       <img src="https://skillicons.dev/icons?i=spring"   title="Spring Boot" alt="Spring Boot" />
-      <img src="https://skillicons.dev/icons?i=maven"    title="Maven"       alt="Maven" />
       <img src="https://skillicons.dev/icons?i=mongodb"  title="MongoDB"     alt="MongoDB" />
       <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"  alt="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql"    title="MySQL"       alt="MySQL" />
